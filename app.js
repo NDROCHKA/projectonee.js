@@ -1,3 +1,4 @@
-import baroud from "./temrinn";
+import baroud from "./temrinn.js";
 
-baroud.printt();
+const myimport = new baroud;
+myimport.printt();
